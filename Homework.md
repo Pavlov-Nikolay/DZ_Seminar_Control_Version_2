@@ -130,6 +130,6 @@
 
 # После этой надписи должна встать картинка с вновь созданной ветки def3.
 
-# Синтаксис Markdown
+![Мем Great_success][def]
 
-![Мем Great_success](Great_success.jpg)
+[def]: Great_success.jpg
